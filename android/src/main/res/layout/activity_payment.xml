@@ -1,0 +1,33 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.epsilon.fincode.fincodesdk.views.FincodeVerticalView
+            android:id="@+id/fincodeView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            custom:colorBackground=""
+            custom:colorBackgroundInput="#ff0000"
+            custom:colorBorder="#32cd32"
+            custom:colorLabelText="#FF00FF"
+            custom:colorText="#FFFFFF"
+            custom:dynamicLogDisplay="true"
+            custom:headingHidden="true"
+            custom:holderNameHidden="true"
+            custom:labelCardNo="カード番号"
+            custom:labelCvc="セキュリティコード"
+            custom:labelExpire="有効期限"
+            custom:labelHolderName="カード名義人"
+            custom:labelPaymentMethod="お支払方法"
+            custom:payTimesHidden="true"
+            custom:placeCardNo="1234 5678 9012 3456"
+            custom:placeCvc="001"
+            custom:placeExpireMonth="01"
+            custom:placeExpireYear="25"
+            custom:placeHolderName="TARO YAMADA" />
+    </ScrollView>
+</layout>
+

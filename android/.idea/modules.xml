@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_fincode.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_fincode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FincodeSDK/flutter_fincode.FincodeSDK.iml" filepath="$PROJECT_DIR$/.idea/modules/FincodeSDK/flutter_fincode.FincodeSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/flutter_fincode.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/flutter_fincode.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/flutter_fincode.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/flutter_fincode.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/flutter_fincode.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/flutter_fincode.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/flutter_fincode.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/flutter_fincode.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

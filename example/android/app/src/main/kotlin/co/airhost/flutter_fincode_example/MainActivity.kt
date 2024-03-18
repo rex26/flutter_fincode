@@ -1,0 +1,6 @@
+package co.airhost.flutter_fincode_example
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
